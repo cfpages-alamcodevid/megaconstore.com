@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized Archives - MegaconStore.com</title>
+	<atom:link href="/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>/category/uncategorized</link>
+	<description>Pabrik Beton Pracetak (Concrete Precast) Indonesia</description>
+	<lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/10/cropped-favicon-blogspot-megacon-32x32.png</url>
+	<title>Uncategorized Archives - MegaconStore.com</title>
+	<link>/category/uncategorized</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Some Useful Links for You to Get Started</title>
+		<link>/welcome-to-cloudways</link>
+					<comments>/welcome-to-cloudways#comments</comments>
+		
+		<dc:creator><![CDATA[Syamsul]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>It seems like you&#8217;re running a default Woocommerce website. Here are few useful links you might be interested in: Migration How to use WordPress/WooCommerce Migrator Plugin? Migrate WordPress/WooCommerce from Siteground to Cloudways Migrate WordPress/WooCommerce from GoDaddy to Cloudways General How do I take my website live from Cloudways? How to manage WordPress via WP-CLI on [&#8230;]</p>
+<p>The post <a href="/welcome-to-cloudways">Some Useful Links for You to Get Started</a> appeared first on <a href="/">MegaconStore.com</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It seems like you&#8217;re running a default Woocommerce website. Here are few useful links you might be interested in:</p>
+<h2><span style="color: #000000;"><strong>Migration</strong></span></h2>
+<ul>
+<li><a href="https://support.cloudways.com/how-to-migrate-wordpress-to-cloudways/?utm_source=WordPress&amp;Staging&amp;Sites&amp;utm_medium=WP&amp;Staging&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to use WordPress/WooCommerce Migrator Plugin?</span></a></li>
+<li><a href="https://support.cloudways.com/siteground-to-cloudways-wordpress-migration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Migrate WordPress/WooCommerce from Siteground to Cloudways</span></a></li>
+<li><a href="https://support.cloudways.com/godaddy-to-cloudways-wordpress-migration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Migrate WordPress/WooCommerce from GoDaddy to Cloudways</span></a></li>
+</ul>
+<h2><span style="color: #000000;"><strong>General</strong></span></h2>
+<ul>
+<li><a href="https://support.cloudways.com/how-do-i-take-my-website-live-from-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How do I take my website live from Cloudways?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-manage-wordpress-with-wp-cli/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to manage WordPress via WP-CLI on Cloudways?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-setup-a-wordpress-multisite-on-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to configure WordPress Multisite on Cloudways?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-manage-your-databases-using-the-integrated-database-manager/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to manage your databases using Cloudways database manager?</span></a></li>
+</ul>
+<h2><span style="color: #000000;"><strong>Performance</strong></span></h2>
+<ul>
+<li><a href="https://support.cloudways.com/breeze-wordpress-cache-configuration/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to install and configure Breeze WordPress cache plugin?</span></a></li>
+<li><a href="https://support.cloudways.com/wordpress-cloudways-cdn/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to integrate CloudwaysCDN with your WordPress/WooCommerce website?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-configure-wp-rocket-plugin-wordpress/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to configure WP Rocket plugin for WordPress/WooCommerce website?</span></a></li>
+</ul>
+<h2><span style="color: #000000;"><strong>Security</strong></span></h2>
+<ul>
+<li><a href="https://support.cloudways.com/what-can-i-do-with-an-htaccess-file/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">What can I do with an .htaccess file?</span></a></li>
+<li><a href="https://www.cloudways.com/blog/protect-woocommerce-store-with-free-ssl-certificates/" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Add free SSL certificate to WooCommerce websites</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-set-up-sucuri-antivirus-website-monitoring/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to setup Sucuri on WordPress/WooCommerce websites at Cloudways?</span></a></li>
+</ul>
+<h2><span style="color: #000000;"><strong>Email</strong></span></h2>
+<ul>
+<li><a href="https://support.cloudways.com/emailing-with-cloudways/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">Which email add-on should I use?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-activate-rackspace-email-addon/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to activate Rackspace email addon?</span></a></li>
+<li><a href="https://support.cloudways.com/how-to-activate-elasticemail-addon/?utm_source=WordPress&amp;&amp;Sites&amp;utm_medium=WP&amp;&amp;utm_campaign=cloudways-wp" target="_blank" rel="noopener noreferrer"><span style="color: #0000ff;">How to activate the Elastic email add-on?</span></a></li>
+</ul>
+<h2><strong>Recommended WordPress Themes</strong></h2>
+<p><a href="https://theme.co/?utm_source=cloudways-wp&amp;utm_medium=cloudways&amp;utm_campaign=cloudways-wp"><img decoding="async" src="https://s3.amazonaws.com/cloudways-static-content/applications/woocommerce/themeco.jpg" /></a><br />
+<a href="https://wpastra.com/free-woocommerce-theme/?utm_source=cloudways&#038;utm_medium=partners&#038;utm_campaign=cloudways-woo-staging-app"><img decoding="async" src="https://s3.amazonaws.com/cloudways-static-content/applications/woocommerce/wp-astra.png" /></a></p>
+<h2><strong>Join The Community Forum</strong></h2>
+<p><a href="https://community.cloudways.com/?utm_source=cloudways-wp&amp;utm_medium=cloudways&amp;utm_campaign=cloudways-wp"><img decoding="async" src="https://s3.amazonaws.com/cloudways-static-content/applications/woocommerce/cloudways-community.jpg" /></a></p>
+<p>The post <a href="/welcome-to-cloudways">Some Useful Links for You to Get Started</a> appeared first on <a href="/">MegaconStore.com</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/welcome-to-cloudways/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=1353 metric#misses=121 metric#hit-ratio=91.8 metric#bytes=408156 metric#prefetches=0 metric#store-reads=166 metric#store-writes=3 metric#store-hits=48 metric#store-misses=118 metric#sql-queries=44 metric#ms-total=1014.54 metric#ms-cache=212.82 metric#ms-cache-avg=1.2668 metric#ms-cache-ratio=21.0 -->
